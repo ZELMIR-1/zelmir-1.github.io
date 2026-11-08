@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.zelmir_1.twa",
+        "sha256_cert_fingerprints": ["AA:58:07:96:46:F9:BE:86:95:71:0B:65:BA:A8:C8:0F:33:87:44:45:39:50:EC:AD:7C:46:79:CE:2D:E4:9E:9E"]
+      }
+    }]
